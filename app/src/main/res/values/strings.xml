@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">SmartCampus</string>
+    <string name="title_activity_health">ActivityHealth</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string-array name="results">
+        <item>Blood Pressure = 110</item>
+        <item>Heart Rate = 90</item>
+        <item>Oxygen Level = 96</item>
+        <item>Blood Viscosity = 0.5</item>
+    </string-array>
+    <string name="title_activity_maps">Map</string>
+
+</resources>
