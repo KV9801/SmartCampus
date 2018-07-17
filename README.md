@@ -1,4 +1,4 @@
-Project Model:
+# Project Model:
 
 Our model is basically the representation of a Smart Campus. Student life forms the most technologically active community, and thus our idea is to build a project based on Smart Campuses, which can later be expanded and implemented to form Smart Cities.
 We have made an Android Application on this topic, which has covered two aspects of a Smart Campus:
@@ -7,7 +7,7 @@ We have made an Android Application on this topic, which has covered two aspects
 
 
 
-Our Application:
+# Our Application:
 
 Each Student has a unique E-mail ID and a unique Student ID. The student registers to the Smart Campus Application and then logs in after the required validation is done. The information of the student is stored in a database.
 
